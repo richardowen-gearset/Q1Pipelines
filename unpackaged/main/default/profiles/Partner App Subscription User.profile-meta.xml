@@ -113,7 +113,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Post_call_details__c</field>
+        <field>Account.Primary_Contact__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -123,7 +123,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Primary_Contact__c</field>
+        <field>Account.Post_call_details__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
